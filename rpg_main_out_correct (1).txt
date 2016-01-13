@@ -1,0 +1,39 @@
+
+=================== ROUND 1 ===================
+Rich (HP: 10)
+Thompson (HP: 10)
+Thompson attacks Rich!
+	Hits for 4 hit points!
+	Rich has 6 hit points remaining.
+Rich attacks Thompson!
+	Misses!
+
+=================== ROUND 2 ===================
+Rich (HP: 6)
+Thompson (HP: 10)
+Rich attacks Thompson!
+	Hits for 3 hit points!
+	Thompson has 7 hit points remaining.
+Thompson attacks Rich!
+	Hits for 2 hit points!
+	Rich has 4 hit points remaining.
+
+=================== ROUND 3 ===================
+Rich (HP: 4)
+Thompson (HP: 7)
+Rich attacks Thompson!
+	Hits for 5 hit points!
+	Thompson has 2 hit points remaining.
+Thompson attacks Rich!
+	Misses!
+
+=================== ROUND 4 ===================
+Rich (HP: 4)
+Thompson (HP: 2)
+Rich attacks Thompson!
+	Hits for 5 hit points!
+	Alas, Thompson has fallen!
+
+The battle is over!
+Rich (HP: 4)
+Thompson (HP: -3)
